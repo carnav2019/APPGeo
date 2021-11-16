@@ -1,8 +1,8 @@
-head{
-    background-color: bisque;
-    height: 5vh;
-}
-body{
-    background-color: cadetblue;
-    width: 100%;
+#earthengine {
+    height: 50px;
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: 15%;
+    bottom: -20%;
 }
